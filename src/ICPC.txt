@@ -1,0 +1,10 @@
+* fake code;
+PROC IMPORT DATA=icpc;
+FILE "/data/raw/Aanvraag specificatie.xlsx";
+tab "$ICPC";
+RUN; 
+
+DATA icpc2;
+SET icpc;
+WHERE col1 NE "";
+RUN;
