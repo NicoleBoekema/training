@@ -5,7 +5,7 @@ The goal of training is to make reuseable software for JHN internal use to read 
 Installation
 
 ## Prerequisites:
-- SAS V9.4
+- SAS V9.4_M6, Windows7 or 10
 - filled aanvraag_specificatie.xlsx (a blank template is stored in /docs, a mock template is stored in /data/raw)
 
 ## Project configuration:
