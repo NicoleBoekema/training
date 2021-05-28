@@ -14,7 +14,7 @@ Installation
 3. Start SAS.
 4. Open /config/start_training. 
 5. Adjust the paths to the files. 
-6. Run start.sas.
+6. Run start_training.sas.
  
 
 ## Project organization
